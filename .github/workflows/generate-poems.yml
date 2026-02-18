@@ -25,6 +25,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.MODELS_TOKEN }}
         run: python generate_poems.py
 
+      - name: Show results in summary
+        run: cat results.md >> $GITHUB_STEP_SUMMARY
+
       - name: Upload results
         uses: actions/upload-artifact@v4
         with:
