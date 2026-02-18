@@ -1,6 +1,6 @@
 # Poetry Competition Results
 
-**Brief:** Write a poem about the Forth Bridge.
+**Brief:** Write a sonnet about the Forth Bridge.
 
 ---
 
@@ -9,217 +9,133 @@
 ### Poem 1: GPT-5
 *Model: `openai/gpt-5`*
 
-Out of the firth it lifts,
-a red grammar of load and trust,
-triangles deciding the sky,
-each joint a small oath driven home
-with the hammer’s iron syllable.
-
-The water moves without memory,
-but the bridge remembers for it:
-salt on its tongue, gulls stitched
-to its flanks like loose commas,
-the long breath of haar
-blurring the margins of Queensferry.
-
-Men once climbed its ribs,
-lanterns swinging, black as script
-against vermilion bone,
-their knuckles learning wind,
-their boots tasting frost on Inchgarvie,
-each rivet a star they pinned
-to keep the night from sinking.
-
-They say it was always being painted,
-endless as tide—an old, bright rumor.
-Even rumor needs a surface to cling to,
-and here is acreage enough:
-a skin that drinks the weather,
-hardens to a hymn, then weathers again.
-
-Trains pass with their portable mornings,
-their evening luggage of faces.
-Through the cantilevered throat
-the click and hush, click and hush,
-a pulse laid down between coasts,
-flesh across the mile-wide silence.
-
-Beside it newer lines have been strung—
-strings of road and harp of cable—
-but nothing answers wind like this,
-this wrought-iron throat
-singing forward into the century,
-its red echo set against rain.
-
-Stand on the shore and count
-what cannot be counted:
-angles upon angles,
-the patience of steel,
-the way a bridge breaks a river
-only to teach it how to hold a sky.
-
-You can feel it in your chest,
-that sure inheritance—
-how weight can be persuaded,
-how distance can be taught to close,
-how a span becomes a sentence
-and the land, at last, replies.
+[RATE LIMITED] Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 
 ### Poem 2: GPT-4.1
 *Model: `openai/gpt-4.1`*
 
-Rising red against the mist and tide,  
-Iron sinews arch across the Forth,  
-A latticework of purpose, wide  
-And steadfast, echoing the North.  
+Upon the Forth, a lattice red and bold  
+Suspends the steel-lit dreams of men and time.  
+Its arches bend where brimming winds unfold  
+And trains rush forth to lands beyond the clime.  
 
-Engines sing upon its bones,  
-Steel rivets pulse with human dreams,  
-Salt winds etch the old and known  
-Into geometry that gleams.  
+Each rivet pressed by hands both skilled and worn  
+Still sings through dusk and haze of rolling tide;  
+A testament to labor, sweat, and dawn—  
+The bridge stands proud where waters slow and wide.  
 
-Dawn paints rust with molten gold,  
-Each span a promise, bold and clear,  
-Carrying voices, stories told  
-Of makers, workers, travelers, near.  
+Beneath its shadow, ships and shadows pass,  
+While seabirds wheel between the girders' sweep.  
+The river's mirror shimmers, glass on brass,  
+Reflecting hopes the bridge was built to keep.  
 
-Beneath: the water’s ancient flow—  
-Above: the bridge’s endless flight—  
-History joined in ebb and glow,  
-A monument to craft and might.
+Enduring through the storm and salt and years,  
+It binds the shore, the future, and past fears.
 
 ### Poem 3: GPT-4o Mini
 *Model: `openai/gpt-4o-mini`*
 
-In twilight's glow, a giant stands,  
-Of iron lace and crafted hands,  
-A testament to dreams once dreamed,  
-Where river's pulse in steel is schemed.  
+Upon the Forth, where waters dance and flow,  
+A marvel wrought from steel and dreams so high,  
+With every beam and arch, its might does show,  
+An emblem bold beneath the vast, blue sky.  
 
-With arches bold, it spans the tide,  
-A crimson crown where eagles glide,  
-Each rivet tells a tale of toil,  
-Of engineers and earthbound soil.  
+Brave engineers did sketch its grand design,  
+A symphony of strength, a tale of grace,  
+It curves with elegance, a lifeline fine,  
+Connecting shores, a testament in place.  
 
-Through storm and sun, it holds its grace,  
-A silhouette in time and space,  
-Linked shores where whispers drift like sails,  
-In harmony, where history prevails.  
+In tempest's roar or sunlight's warm embrace,  
+It stands unwavering, a sentinel true,  
+As trains do rush, and vessels find their pace,  
+The bridge reflects the heart of all that's due.  
 
-The trains that rumble, the ships that pass,  
-All bow to this majestic mass,  
-A bridge of hope, of love, of pride,  
-Eternal symbol, standing wide.  
-
-As shadows lengthen and stars ignite,  
-In silent awe, we share the night,  
-For in its presence, hearts are stirred,  
-In every glance, a dream deferred.
+O Forth Bridge, steadfast 'gainst the turning tide,  
+In you, the spirit of a nation bides.
 
 ### Poem 4: Llama 3.1 8B
 *Model: `meta/Meta-Llama-3.1-8B-Instruct`*
 
-Pillars of steel, against the grey
-Mood swings of sea and struggling sky
-Built for the brave, the road ahead
-Quests to the north, across the Forth's wide bay
+Amidst the Firth's darkening, evening tide
+The Forth Bridge stands, a steel giant proud
+Its silvery form, against the sky divide
+Reflecting sunsets, with a beauty avowed
 
-A meeting of art and industrial past
-Fractured rhythms, where latticeworks last
-Golden hours come to spotlight the span
-A message that greed has a wondrous stand
+Its chains of steel, like giant's arms outstretched
+Support the rail, a path above the deep
+The waves below, in troubled motion sketched
+As ferry boats pass, with gentle, rolling creep
 
-Gritty horizons fade as sea meets sound
-As sailors integrating labor all around
-Their jaws were set when steel men set to wander
-Setting into vision striding bays of Fife's thunder
+The bridge's grandeur, stirs a poet's heart
+To sing ofScotland's beauty, in its art
+A symbol of progress, through the ages strong
+Yet, tied to heritage, where loyalties belong
 
-Expanse has built meager given understand 
-Many stating faith in an age's better plan
-Endless current Made it a humble emblem to forge
-Unstraught existence where designs make piercing love
+And though it stands, a testament to man's might
+It charms with wonder, in the Firth's pale light.
 
 ### Poem 5: Llama 3.3 70B
 *Model: `meta/Llama-3.3-70B-Instruct`*
 
-Over the Firth of Forth's dark tide,
-A giant's fist, a lattice pride,
-The bridge stands tall, a feat of might,
-A symphony of steel, a wondrous sight.
+Amidst the Firth of Forth's majestic sweep,
+A mighty titan spans the waters wide,
+The Forth Bridge stands, its iron latticework deep,
+A marvel of the Victorian tide.
 
-Its cantilevers stretch, a majestic span,
-A sweep of genius, born of human plan,
-The trains rumble on, a steady beat,
-As the bridge's grandeur meets the eye's repeat.
+Its cantilevered arms, a sturdy frame,
+Support the railway's winding, serpent course,
+As trains, like steel serpents, speed and claim
+Their passage, borne on girders' mighty force.
 
-The Scottish skies, a somber hue,
-Reflect the mood, of this industrial clue,
-The bridge's paint, a deep, rich red,
-A symbol of strength, that's stood the test of time and dread.
+The bridge's rust-red hue, like sunset's glow,
+Illumes the estuary's darkening shore,
+As sea and sky converge, the scene to know,
+A symphony of steel, and waves, and more.
 
-The waters below, a swirling storm,
-The bridge's pillars, a steadfast form,
-A testament to engineers of old,
-A marvel of the age, a story to be told.
-
-The sun sets low, over the Forth's dark shore,
-The bridge's latticework, a fiery glow once more,
-A beacon of progress, in a bygone age,
-The Forth Bridge stands, a monumental stage.
+And when the sun dips low, and daylight fades,
+The Forth Bridge stands, a sentinel of shades.
 
 ### Poem 6: GPT-4o
 *Model: `openai/gpt-4o`*
 
-Beneath the sky, in shifting hues,  
-A solemn arc in ruddy fuse,  
-The Forth Bridge stands, a titan’s thread,  
-A woven path where dreams are bred.  
+Beneath the sky where restless tides do play,  
+A marvel born of steel and human might,  
+The Forth Bridge spans the waves in grand display,  
+Its girders gleam beneath both day and night.  
 
-Its ribs of steel, in rust-fire glow,  
-Span waters deep where whispers flow;  
-The firth beneath, a mirror wide,  
-Reflects the toil of human pride.  
+With countless rivets binding strength untold,  
+It arches proud, defying time's decay,  
+A sentinel through tempests fierce and cold,  
+Enduring years as summers fade to gray.  
 
-Through hammer’s clang and furnace roar,  
-It rose to bind each distant shore,  
-A bridge of hope, a crafted spire,  
-Born from grit and hearts afire.  
+Its shadow dances on the silver tide,  
+Where seabirds wheel and call into the breeze,  
+A monument to dreams long fortified,  
+Its beauty sings to those who cross with ease.  
 
-The winds may howl, the tides may race,  
-But steadfast stands its ageless face,  
-A monument to time and dream,  
-Above the silent currents’ gleam.  
-
-Oh, Forth’s great child, your spine of flame  
-Bears stories long as mortal name;  
-Through mist and storm, through dusk and sun,  
-Your watch endures, your work undone.
+The Forth Bridge stands, eternal in its grace,  
+A timeless thread in Scotland's vast embrace.
 
 ### Poem 7: Cohere Command R+
 *Model: `Cohere-command-r-plus-08-2024`*
 
-Mighty steel, a marvel of design,
-Stretching across the waters, a sight so fine.
-Two cities linked, a journey's swift delight,
-Forth Bridge, a Scottish wonder, a rail-borne flight.
+O'er the Firth of Forth, a marvel stands,
+A bridge, a vision, by human hands,
+Three mighty towers, a feat of steel and grace,
+Where trains now fly, a marvel to embrace.
 
-With grace, it stands, a testament to man,
-A feat of engineering, a grand plan.
-Three towers, like giants, reaching for the sky,
-Reflecting in the river, a mirror's lie.
+Its cables sing, a symphony of might,
+A structure so grand, a wondrous sight,
+In sun's warm glow or fog's mysterious veil,
+A symbol of strength, that never will fail.
 
-The trains rush by, a constant flow,
-A modern marvel, yet a century ago.
-A symbol of progress, a nation's pride,
-Where rails and river meet, a bridge's stride.
+Across the waters, a journey's swift pace,
+A testament to engineering's grace,
+Connecting shores, a pathway to new lands,
+A timeless wonder, the Forth Bridge stands.
 
-In sun's warm glow or winter's icy breath,
-It stands resilient, defying nature's wrath.
-A beacon, a landmark, a sight to behold,
-A tale of travel, a story to unfold.
-
-Oh, Forth Bridge, a masterpiece of art,
-Where iron and water merge, a timeless heart.
+Forever a landmark, its beauty endures,
+A Scottish icon, forever secure.
 
 ---
 
@@ -227,58 +143,54 @@ Where iron and water merge, a timeless heart.
 
 ### GPT-5
 
-> Best: 1
-> Best reason: Vivid, original imagery and a sustained metaphor that deftly ties engineering to language and memory give it precision, music, and depth. It captures place and history with specificity and emotional resonance.
-> 
-> Worst: 4
-> Worst reason: Broken syntax and incoherent phrasing make it confusing, with clichéd and nonsensical lines that undermine clarity and effective imagery.
+> [RATE LIMITED] Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 
 ### GPT-4.1
 
 > Best: 1  
-> Best reason: Poem 1 offers vivid imagery, inventive metaphors, and a nuanced exploration of the bridge’s history and symbolism, demonstrating both technical skill and emotional resonance.  
-> Worst: 7  
-> Worst reason: Poem 7 relies on clichés and simplistic phrasing, lacking depth, originality, and evocative language compared to the other entries.
+> Best reason: Poem 1 combines vivid imagery, strong sonnet structure, and emotional resonance, capturing both the engineering marvel and the poetic spirit of the Forth Bridge with memorable lines and elegant phrasing.  
+> Worst: 6  
+> Worst reason: Poem 6 lacks the formal sonnet structure, relies on repetitive and generic language, and fails to evoke the unique character or history of the Forth Bridge in a meaningful way.
 
 ### GPT-4o Mini
 
-> Best: 1  
-> Best reason: This poem masterfully intertwines vivid imagery with a deep exploration of the bridge's significance, capturing both its physical presence and the emotional resonance it holds for those who encounter it. The language is rich and evocative, creating a sense of history and connection that elevates the bridge beyond mere engineering.  
+> Best: 4  
+> Best reason: This poem captures the grandeur and enduring nature of the Forth Bridge with vivid imagery and a strong sense of rhythm, effectively conveying both its physical presence and symbolic significance.  
 > 
-> Worst: 4  
-> Worst reason: While it attempts to blend art and industry, the poem lacks a cohesive structure and clarity, resulting in a disjointed reading experience. The imagery feels muddled and the rhythm inconsistent, making it less impactful compared to the other submissions.
+> Worst: 2  
+> Worst reason: While it contains some beautiful imagery, the poem feels less cohesive and lacks the depth and emotional resonance found in the other submissions, making it less impactful overall.
 
 ### Llama 3.1 8B
 
 > Best: 1
-> Best reason: This poem stands out for its rich imagery, nuanced exploration of the bridge's relationship with the natural world, and its thoughtful consideration of the bridge's history and significance. The language is evocative and precise, with a clear attention to the sounds and rhythms of the words.
+> Best reason: This poem stands out for its vivid imagery and effective use of metaphor, particularly in the first quatrain where it compares the bridge to "lattice red and bold" and "steel-lit dreams of men and time." The poem's exploration of the bridge's significance and its reflection of human labor and hope is also well-executed.
 > 
-> Worst: 5
-> Worst reason: While the poem has some strong moments, its language and imagery are often overly simplistic and clichéd, relying on familiar tropes (such as the "giant's fist" and "majestic span") rather than offering fresh insights or perspectives. The poem's themes and ideas are also not as deeply explored or developed as they are in other poems on the list.
+> Worst: 6
+> Worst reason: Unfortunately, this poem is incomplete and does not meet the requirements of a sonnet. The rate-limited error suggests that it may have been generated by a machine learning model, but it lacks the coherence and polish of a human-written poem.
 
 ### Llama 3.3 70B
 
-> Best: 1
-> Best reason: This poem stands out for its masterful use of language and imagery, weaving a rich and nuanced exploration of the Forth Bridge's structure, history, and significance, with lines like "a red grammar of load and trust" and "the patience of steel" showcasing the poet's skill. The poem's depth and complexity make it a compelling and memorable read.
+> Best: 2
+> Best reason: This poem stands out for its masterful use of language and imagery, effectively capturing the grandeur and timelessness of the Forth Bridge, with phrases like "a marvel born of steel and human might" and "a sentinel through tempests fierce and cold" showcasing the poet's skill. The poem's structure and rhythm also contribute to its overall impact, making it a compelling and evocative tribute to the bridge.
 > 
 > Worst: 4
-> Worst reason: This poem suffers from unclear and disjointed language, with lines like "Expanse has built meager given understand" and "Unstraught existence where designs make piercing love" feeling vague and impenetrable, making it difficult to discern a clear meaning or message. The poem's lack of cohesion and clarity makes it the weakest of the seven submissions.
+> Worst reason: This poem is essentially a error message and does not contain any actual poetry, making it the clear weakest entry in the collection. The absence of any creative content or attempt to address the brief means it cannot be considered a valid or worthy poem.
 
 ### GPT-4o
 
 > Best: 1  
-> Best reason: Poem 1 stands out for its vivid imagery, intricate metaphors, and lyrical rhythm. It captures the essence of the Forth Bridge as both a physical structure and a symbol of human ingenuity, weaving together history, nature, and emotion with remarkable depth.  
+> Best reason: Poem 1 captures the grandeur and historical significance of the Forth Bridge with vivid imagery and a strong emotional resonance, particularly in its depiction of labor and endurance. The seamless flow of its lines and the reflective tone make it stand out as both evocative and technically accomplished.  
 > 
-> Worst: 7  
-> Worst reason: While Poem 7 is straightforward and clear, it lacks the originality and evocative language found in the other poems. Its rhymes feel forced, and the descriptions are more generic, failing to capture the unique character of the Forth Bridge.
+> Worst: 2  
+> Worst reason: While Poem 2 attempts to convey the bridge's beauty, its inconsistent meter and awkward phrasing detract from the overall impact. Additionally, the imagery feels less vivid and original compared to the other entries.
 
 ### Cohere Command R+
 
-> Best: 1
-> Best reason: This poem is a clear winner due to its masterful use of language, creating vivid imagery and a deep sense of connection between the bridge, the natural world, and human endeavour. The poem's structure and rhythm are also impressive, with a satisfying blend of long and short lines that mirror the bridge's architecture.
+> Best: 2
+> Best reason: This poem effectively uses vivid imagery and personification to bring the bridge to life, capturing its grandeur and the human effort behind its construction. The language is evocative and creates a sense of awe, making it a memorable and powerful tribute to the Forth Bridge.
 > 
-> Worst: 4
-> Worst reason: This piece lacks the cohesive structure and thematic depth of the other poems. The language is often confusing, with abrupt shifts in tone and imagery that make it challenging to follow. The poem's message and emotional impact are consequently diminished.
+> Worst: 5
+> Worst reason: While the poem attempts to showcase the bridge's beauty and significance, the execution falls short due to awkward phrasing and inconsistent meter, which detracts from the overall impact and flow of the sonnet.
 
 ---
 
@@ -288,55 +200,55 @@ Where iron and water merge, a timeless heart.
 
 | Poem | Model | Votes |
 |------|-------|-------|
-| Poem 1 | openai/gpt-5 | 7 |
+| Poem 2 | openai/gpt-4.1 | 4 |
+| Poem 6 | openai/gpt-4o | 2 |
 | Poem 4 | meta/Meta-Llama-3.1-8B-Instruct | 0 |
-| Poem 6 | openai/gpt-4o | 0 |
-| Poem 2 | openai/gpt-4.1 | 0 |
 | Poem 3 | openai/gpt-4o-mini | 0 |
 | Poem 5 | meta/Llama-3.3-70B-Instruct | 0 |
 | Poem 7 | Cohere-command-r-plus-08-2024 | 0 |
+| Poem 1 | openai/gpt-5 | 0 |
 
 #### Comments on Best Poems
 
-**Poem 1 (openai/gpt-5):**
-- *Llama 3.1 8B:* This poem stands out for its rich imagery, nuanced exploration of the bridge's relationship with the natural world, and its thoughtful consideration of the bridge's history and significance. The language is evocative and precise, with a clear attention to the sounds and rhythms of the words.
-- *GPT-4o:* Poem 1 stands out for its vivid imagery, intricate metaphors, and lyrical rhythm. It captures the essence of the Forth Bridge as both a physical structure and a symbol of human ingenuity, weaving together history, nature, and emotion with remarkable depth.
-- *GPT-4o Mini:* This poem masterfully intertwines vivid imagery with a deep exploration of the bridge's significance, capturing both its physical presence and the emotional resonance it holds for those who encounter it. The language is rich and evocative, creating a sense of history and connection that elevates the bridge beyond mere engineering.
-- *GPT-4.1:* Poem 1 offers vivid imagery, inventive metaphors, and a nuanced exploration of the bridge’s history and symbolism, demonstrating both technical skill and emotional resonance.
-- *Llama 3.3 70B:* This poem stands out for its masterful use of language and imagery, weaving a rich and nuanced exploration of the Forth Bridge's structure, history, and significance, with lines like "a red grammar of load and trust" and "the patience of steel" showcasing the poet's skill. The poem's depth and complexity make it a compelling and memorable read.
-- *GPT-5:* Vivid, original imagery and a sustained metaphor that deftly ties engineering to language and memory give it precision, music, and depth. It captures place and history with specificity and emotional resonance.
-- *Cohere Command R+:* This poem is a clear winner due to its masterful use of language, creating vivid imagery and a deep sense of connection between the bridge, the natural world, and human endeavour. The poem's structure and rhythm are also impressive, with a satisfying blend of long and short lines that mirror the bridge's architecture.
+**Poem 2 (openai/gpt-4.1):**
+- *Llama 3.1 8B:* This poem stands out for its vivid imagery and effective use of metaphor, particularly in the first quatrain where it compares the bridge to "lattice red and bold" and "steel-lit dreams of men and time." The poem's exploration of the bridge's significance and its reflection of human labor and hope is also well-executed.
+- *GPT-4.1:* Poem 1 combines vivid imagery, strong sonnet structure, and emotional resonance, capturing both the engineering marvel and the poetic spirit of the Forth Bridge with memorable lines and elegant phrasing.
+- *GPT-4o:* Poem 1 captures the grandeur and historical significance of the Forth Bridge with vivid imagery and a strong emotional resonance, particularly in its depiction of labor and endurance. The seamless flow of its lines and the reflective tone make it stand out as both evocative and technically accomplished.
+- *Cohere Command R+:* This poem effectively uses vivid imagery and personification to bring the bridge to life, capturing its grandeur and the human effort behind its construction. The language is evocative and creates a sense of awe, making it a memorable and powerful tribute to the Forth Bridge.
+
+**Poem 6 (openai/gpt-4o):**
+- *GPT-4o Mini:* This poem captures the grandeur and enduring nature of the Forth Bridge with vivid imagery and a strong sense of rhythm, effectively conveying both its physical presence and symbolic significance.
+- *Llama 3.3 70B:* This poem stands out for its masterful use of language and imagery, effectively capturing the grandeur and timelessness of the Forth Bridge, with phrases like "a marvel born of steel and human might" and "a sentinel through tempests fierce and cold" showcasing the poet's skill. The poem's structure and rhythm also contribute to its overall impact, making it a compelling and evocative tribute to the bridge.
 
 ### Worst Poem Tally
 
 | Poem | Model | Votes |
 |------|-------|-------|
-| Poem 4 | meta/Meta-Llama-3.1-8B-Instruct | 4 |
-| Poem 7 | Cohere-command-r-plus-08-2024 | 2 |
-| Poem 5 | meta/Llama-3.3-70B-Instruct | 1 |
+| Poem 4 | meta/Meta-Llama-3.1-8B-Instruct | 3 |
+| Poem 1 | openai/gpt-5 | 2 |
+| Poem 7 | Cohere-command-r-plus-08-2024 | 1 |
 | Poem 6 | openai/gpt-4o | 0 |
-| Poem 2 | openai/gpt-4.1 | 0 |
 | Poem 3 | openai/gpt-4o-mini | 0 |
-| Poem 1 | openai/gpt-5 | 0 |
+| Poem 5 | meta/Llama-3.3-70B-Instruct | 0 |
+| Poem 2 | openai/gpt-4.1 | 0 |
 
 #### Comments on Worst Poems
 
 **Poem 4 (meta/Meta-Llama-3.1-8B-Instruct):**
-- *GPT-4o Mini:* While it attempts to blend art and industry, the poem lacks a cohesive structure and clarity, resulting in a disjointed reading experience. The imagery feels muddled and the rhythm inconsistent, making it less impactful compared to the other submissions.
-- *Llama 3.3 70B:* This poem suffers from unclear and disjointed language, with lines like "Expanse has built meager given understand" and "Unstraught existence where designs make piercing love" feeling vague and impenetrable, making it difficult to discern a clear meaning or message. The poem's lack of cohesion and clarity makes it the weakest of the seven submissions.
-- *GPT-5:* Broken syntax and incoherent phrasing make it confusing, with clichéd and nonsensical lines that undermine clarity and effective imagery.
-- *Cohere Command R+:* This piece lacks the cohesive structure and thematic depth of the other poems. The language is often confusing, with abrupt shifts in tone and imagery that make it challenging to follow. The poem's message and emotional impact are consequently diminished.
+- *GPT-4o Mini:* While it contains some beautiful imagery, the poem feels less cohesive and lacks the depth and emotional resonance found in the other submissions, making it less impactful overall.
+- *GPT-4o:* While Poem 2 attempts to convey the bridge's beauty, its inconsistent meter and awkward phrasing detract from the overall impact. Additionally, the imagery feels less vivid and original compared to the other entries.
+- *Cohere Command R+:* While the poem attempts to showcase the bridge's beauty and significance, the execution falls short due to awkward phrasing and inconsistent meter, which detracts from the overall impact and flow of the sonnet.
+
+**Poem 1 (openai/gpt-5):**
+- *Llama 3.1 8B:* Unfortunately, this poem is incomplete and does not meet the requirements of a sonnet. The rate-limited error suggests that it may have been generated by a machine learning model, but it lacks the coherence and polish of a human-written poem.
+- *Llama 3.3 70B:* This poem is essentially a error message and does not contain any actual poetry, making it the clear weakest entry in the collection. The absence of any creative content or attempt to address the brief means it cannot be considered a valid or worthy poem.
 
 **Poem 7 (Cohere-command-r-plus-08-2024):**
-- *GPT-4o:* While Poem 7 is straightforward and clear, it lacks the originality and evocative language found in the other poems. Its rhymes feel forced, and the descriptions are more generic, failing to capture the unique character of the Forth Bridge.
-- *GPT-4.1:* Poem 7 relies on clichés and simplistic phrasing, lacking depth, originality, and evocative language compared to the other entries.
-
-**Poem 5 (meta/Llama-3.3-70B-Instruct):**
-- *Llama 3.1 8B:* While the poem has some strong moments, its language and imagery are often overly simplistic and clichéd, relying on familiar tropes (such as the "giant's fist" and "majestic span") rather than offering fresh insights or perspectives. The poem's themes and ideas are also not as deeply explored or developed as they are in other poems on the list.
+- *GPT-4.1:* Poem 6 lacks the formal sonnet structure, relies on repetitive and generic language, and fails to evoke the unique character or history of the Forth Bridge in a meaningful way.
 
 
 ---
 
-🏆 **Best:** Poem 1 — openai/gpt-5
+🏆 **Best:** Poem 2 — openai/gpt-4.1
 
 💀 **Worst:** Poem 4 — meta/Meta-Llama-3.1-8B-Instruct
