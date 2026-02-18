@@ -2,6 +2,11 @@ name: Generate Poems
 
 on:
   workflow_dispatch:
+    inputs:
+      brief:
+        description: 'Poem brief (optional)'
+        required: false
+        type: string
 
 jobs:
   generate:
@@ -24,6 +29,7 @@ jobs:
       - name: Generate poems
         env:
           GITHUB_TOKEN: ${{ secrets.MODELS_TOKEN || secrets.GITHUB_TOKEN }}
+          POEM_BRIEF: ${{ inputs.brief }}
         run: python generate_poems.py
 
       - name: Show results in summary
