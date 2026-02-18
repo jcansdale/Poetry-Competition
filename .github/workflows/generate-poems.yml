@@ -8,6 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      models: read
 
     steps:
       - uses: actions/checkout@v4
@@ -22,7 +23,7 @@ jobs:
 
       - name: Generate poems
         env:
-          GITHUB_TOKEN: ${{ secrets.MODELS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python generate_poems.py
 
       - name: Show results in summary
