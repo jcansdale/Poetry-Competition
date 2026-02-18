@@ -11,10 +11,7 @@ from openai import OpenAI
 TOKEN = os.environ["GITHUB_TOKEN"]
 ENDPOINT = "https://models.github.ai/inference"
 
-DEFAULT_PROMPT = (
-    "Write a poem about a Russian Dwarf hamster named Ash (4-6 lines). "
-    "Make it playfull and a bit silly."
-)
+DEFAULT_PROMPT = "Write a poem about the Forth Bridge."
 
 SHARED_PROMPT = os.environ.get("POEM_BRIEF") or DEFAULT_PROMPT
 

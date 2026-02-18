@@ -1,6 +1,6 @@
 # Poetry Competition Results
 
-**Brief:** Write a poem about a Russian Dwarf hamster named Ash (4-6 lines). Make it playfull and a bit silly.
+**Brief:** Write a poem about the Forth Bridge.
 
 ---
 
@@ -9,71 +9,217 @@
 ### Poem 1: GPT-5
 *Model: `openai/gpt-5`*
 
-Ash the Russian Dwarf, a pocket-sized flash,
-Zooms through the bedding in a crumb-crunch dash;
-Whiskers like commas, he pauses at his stash,
-Stuffs eight sunflower stars in a cheeky cache,
-Then moonwalks his wheel with squeaks and panache.
+Out of the firth it lifts,
+a red grammar of load and trust,
+triangles deciding the sky,
+each joint a small oath driven home
+with the hammer’s iron syllable.
+
+The water moves without memory,
+but the bridge remembers for it:
+salt on its tongue, gulls stitched
+to its flanks like loose commas,
+the long breath of haar
+blurring the margins of Queensferry.
+
+Men once climbed its ribs,
+lanterns swinging, black as script
+against vermilion bone,
+their knuckles learning wind,
+their boots tasting frost on Inchgarvie,
+each rivet a star they pinned
+to keep the night from sinking.
+
+They say it was always being painted,
+endless as tide—an old, bright rumor.
+Even rumor needs a surface to cling to,
+and here is acreage enough:
+a skin that drinks the weather,
+hardens to a hymn, then weathers again.
+
+Trains pass with their portable mornings,
+their evening luggage of faces.
+Through the cantilevered throat
+the click and hush, click and hush,
+a pulse laid down between coasts,
+flesh across the mile-wide silence.
+
+Beside it newer lines have been strung—
+strings of road and harp of cable—
+but nothing answers wind like this,
+this wrought-iron throat
+singing forward into the century,
+its red echo set against rain.
+
+Stand on the shore and count
+what cannot be counted:
+angles upon angles,
+the patience of steel,
+the way a bridge breaks a river
+only to teach it how to hold a sky.
+
+You can feel it in your chest,
+that sure inheritance—
+how weight can be persuaded,
+how distance can be taught to close,
+how a span becomes a sentence
+and the land, at last, replies.
 
 ### Poem 2: GPT-4.1
 *Model: `openai/gpt-4.1`*
 
-Ash, the tiny fluff-ball darting fast,  
-Whiskers twitch with schemes unsurpassed.  
-He stuffs his cheeks till they balloon wide,  
-Then hides in your sleeve, where secrets reside.  
-Spinning his wheel, he dreams of fame—  
-Oh, mighty Ash, in his hamster hall of game!
+Rising red against the mist and tide,  
+Iron sinews arch across the Forth,  
+A latticework of purpose, wide  
+And steadfast, echoing the North.  
+
+Engines sing upon its bones,  
+Steel rivets pulse with human dreams,  
+Salt winds etch the old and known  
+Into geometry that gleams.  
+
+Dawn paints rust with molten gold,  
+Each span a promise, bold and clear,  
+Carrying voices, stories told  
+Of makers, workers, travelers, near.  
+
+Beneath: the water’s ancient flow—  
+Above: the bridge’s endless flight—  
+History joined in ebb and glow,  
+A monument to craft and might.
 
 ### Poem 3: GPT-4o Mini
 *Model: `openai/gpt-4o-mini`*
 
-In a cozy little cage, Ash does prance,  
-With tiny feet and a wiggly dance,  
-He burrows through bedding, a fluffy parade,  
-In a world made of tunnels, his grand escapade.  
-A sunflower seed, his treasure so bright,  
-This dwarf-sized dynamo brings pure delight!
+In twilight's glow, a giant stands,  
+Of iron lace and crafted hands,  
+A testament to dreams once dreamed,  
+Where river's pulse in steel is schemed.  
+
+With arches bold, it spans the tide,  
+A crimson crown where eagles glide,  
+Each rivet tells a tale of toil,  
+Of engineers and earthbound soil.  
+
+Through storm and sun, it holds its grace,  
+A silhouette in time and space,  
+Linked shores where whispers drift like sails,  
+In harmony, where history prevails.  
+
+The trains that rumble, the ships that pass,  
+All bow to this majestic mass,  
+A bridge of hope, of love, of pride,  
+Eternal symbol, standing wide.  
+
+As shadows lengthen and stars ignite,  
+In silent awe, we share the night,  
+For in its presence, hearts are stirred,  
+In every glance, a dream deferred.
 
 ### Poem 4: Llama 3.1 8B
 *Model: `meta/Meta-Llama-3.1-8B-Instruct`*
 
-Ash the hamster, spinning round,
-In her wheel, a blur is found.
-Her pink nose twitches with glee,
-Chasing dust bunnies wild and free.
-She burrows deep, a tiny queen,
-In her secret world, her heart is seen.
+Pillars of steel, against the grey
+Mood swings of sea and struggling sky
+Built for the brave, the road ahead
+Quests to the north, across the Forth's wide bay
+
+A meeting of art and industrial past
+Fractured rhythms, where latticeworks last
+Golden hours come to spotlight the span
+A message that greed has a wondrous stand
+
+Gritty horizons fade as sea meets sound
+As sailors integrating labor all around
+Their jaws were set when steel men set to wander
+Setting into vision striding bays of Fife's thunder
+
+Expanse has built meager given understand 
+Many stating faith in an age's better plan
+Endless current Made it a humble emblem to forge
+Unstraught existence where designs make piercing love
 
 ### Poem 5: Llama 3.3 70B
 *Model: `meta/Llama-3.3-70B-Instruct`*
 
-Ash the hamster, furry and bright,
-Spins on his wheel with joyful delight.
-His whiskers twitch, his ears flail with glee,
-As he burrows deep in his cozy spree.
-With a twinkle in his eye, he plays all night,
-Stealing hearts with his silly, furry light.
+Over the Firth of Forth's dark tide,
+A giant's fist, a lattice pride,
+The bridge stands tall, a feat of might,
+A symphony of steel, a wondrous sight.
+
+Its cantilevers stretch, a majestic span,
+A sweep of genius, born of human plan,
+The trains rumble on, a steady beat,
+As the bridge's grandeur meets the eye's repeat.
+
+The Scottish skies, a somber hue,
+Reflect the mood, of this industrial clue,
+The bridge's paint, a deep, rich red,
+A symbol of strength, that's stood the test of time and dread.
+
+The waters below, a swirling storm,
+The bridge's pillars, a steadfast form,
+A testament to engineers of old,
+A marvel of the age, a story to be told.
+
+The sun sets low, over the Forth's dark shore,
+The bridge's latticework, a fiery glow once more,
+A beacon of progress, in a bygone age,
+The Forth Bridge stands, a monumental stage.
 
 ### Poem 6: GPT-4o
 *Model: `openai/gpt-4o`*
 
-Ash the hamster, small and spry,  
-Zooms in circles—don't know why!  
-Tiny toes on turbo speed,  
-A wheel-bound blur, a fluffball steed.  
-Cheek pouches stuffed, a snack buffet,  
-Ash, the whirlwind of the day!
+Beneath the sky, in shifting hues,  
+A solemn arc in ruddy fuse,  
+The Forth Bridge stands, a titan’s thread,  
+A woven path where dreams are bred.  
+
+Its ribs of steel, in rust-fire glow,  
+Span waters deep where whispers flow;  
+The firth beneath, a mirror wide,  
+Reflects the toil of human pride.  
+
+Through hammer’s clang and furnace roar,  
+It rose to bind each distant shore,  
+A bridge of hope, a crafted spire,  
+Born from grit and hearts afire.  
+
+The winds may howl, the tides may race,  
+But steadfast stands its ageless face,  
+A monument to time and dream,  
+Above the silent currents’ gleam.  
+
+Oh, Forth’s great child, your spine of flame  
+Bears stories long as mortal name;  
+Through mist and storm, through dusk and sun,  
+Your watch endures, your work undone.
 
 ### Poem 7: Cohere Command R+
 *Model: `Cohere-command-r-plus-08-2024`*
 
-Ash the hamster, a tiny ball of fur,
-Whizzes by with a blur, a blur of energy,
-In his wheel, he's a spinning blur,
-A blur of whiskers, a blur so cute,
-His little paws, a blur of speed,
-Racing through dreams, a blur of fun.
+Mighty steel, a marvel of design,
+Stretching across the waters, a sight so fine.
+Two cities linked, a journey's swift delight,
+Forth Bridge, a Scottish wonder, a rail-borne flight.
+
+With grace, it stands, a testament to man,
+A feat of engineering, a grand plan.
+Three towers, like giants, reaching for the sky,
+Reflecting in the river, a mirror's lie.
+
+The trains rush by, a constant flow,
+A modern marvel, yet a century ago.
+A symbol of progress, a nation's pride,
+Where rails and river meet, a bridge's stride.
+
+In sun's warm glow or winter's icy breath,
+It stands resilient, defying nature's wrath.
+A beacon, a landmark, a sight to behold,
+A tale of travel, a story to unfold.
+
+Oh, Forth Bridge, a masterpiece of art,
+Where iron and water merge, a timeless heart.
 
 ---
 
@@ -82,58 +228,57 @@ Racing through dreams, a blur of fun.
 ### GPT-5
 
 > Best: 1
-> Best reason: Inventive imagery and clever wordplay (“whiskers like commas,” “cheeky cache”) make it playful and delightfully silly, with tight rhyme and rhythm. It fully meets the brief in five lively lines.
+> Best reason: Vivid, original imagery and a sustained metaphor that deftly ties engineering to language and memory give it precision, music, and depth. It captures place and history with specificity and emotional resonance.
 > 
-> Worst: 7
-> Worst reason: It leans heavily on repetitive “blur” phrasing with little variety or concrete detail. The monotony undercuts playfulness and makes the poem feel flat.
+> Worst: 4
+> Worst reason: Broken syntax and incoherent phrasing make it confusing, with clichéd and nonsensical lines that undermine clarity and effective imagery.
 
 ### GPT-4.1
 
 > Best: 1  
-> Best reason: Poem 1 stands out for its inventive imagery, playful language, and clever wordplay ("moonwalks his wheel with squeaks and panache"), capturing Ash's personality in a lively and memorable way.
-> 
+> Best reason: Poem 1 offers vivid imagery, inventive metaphors, and a nuanced exploration of the bridge’s history and symbolism, demonstrating both technical skill and emotional resonance.  
 > Worst: 7  
-> Worst reason: Poem 7 relies too heavily on repetition of the word "blur," resulting in a lack of variety and playfulness, making it feel monotonous and less engaging compared to the others.
+> Worst reason: Poem 7 relies on clichés and simplistic phrasing, lacking depth, originality, and evocative language compared to the other entries.
 
 ### GPT-4o Mini
 
 > Best: 1  
-> Best reason: This poem captures the playful essence of Ash with vivid imagery and a lively rhythm, showcasing his antics in a delightful and engaging manner. The clever wordplay, especially with "moonwalks" and "cheeky cache," adds a whimsical touch that enhances its charm.  
+> Best reason: This poem masterfully intertwines vivid imagery with a deep exploration of the bridge's significance, capturing both its physical presence and the emotional resonance it holds for those who encounter it. The language is rich and evocative, creating a sense of history and connection that elevates the bridge beyond mere engineering.  
 > 
-> Worst: 7  
-> Worst reason: While it attempts to convey Ash's energy, the repetition of "blur" throughout the poem feels excessive and detracts from the overall impact, making it less imaginative and engaging compared to the other entries.
+> Worst: 4  
+> Worst reason: While it attempts to blend art and industry, the poem lacks a cohesive structure and clarity, resulting in a disjointed reading experience. The imagery feels muddled and the rhythm inconsistent, making it less impactful compared to the other submissions.
 
 ### Llama 3.1 8B
 
 > Best: 1
-> Best reason: This poem stands out for its clever use of language and imagery, particularly in the line "Whiskers like commas, he pauses at his stash," which effectively captures the hamster's curious nature. The poem's rhythm and flow are also well-executed, making it a delightful read.
+> Best reason: This poem stands out for its rich imagery, nuanced exploration of the bridge's relationship with the natural world, and its thoughtful consideration of the bridge's history and significance. The language is evocative and precise, with a clear attention to the sounds and rhythms of the words.
 > 
-> Worst: 4
-> Worst reason: This poem is the least engaging of the seven, with a lack of distinct imagery and a repetitive structure that fails to convey the hamster's personality. The language is also overly simplistic, which detracts from the overall impact of the poem.
+> Worst: 5
+> Worst reason: While the poem has some strong moments, its language and imagery are often overly simplistic and clichéd, relying on familiar tropes (such as the "giant's fist" and "majestic span") rather than offering fresh insights or perspectives. The poem's themes and ideas are also not as deeply explored or developed as they are in other poems on the list.
 
 ### Llama 3.3 70B
 
 > Best: 1
-> Best reason: Poem 1 stands out for its clever use of language, such as "crumb-crunch dash" and "cheeky cache," which effectively convey Ash's playful and mischievous personality. The poem's rhythm and meter are also well-executed, making it a delightful and engaging read.
+> Best reason: This poem stands out for its masterful use of language and imagery, weaving a rich and nuanced exploration of the Forth Bridge's structure, history, and significance, with lines like "a red grammar of load and trust" and "the patience of steel" showcasing the poet's skill. The poem's depth and complexity make it a compelling and memorable read.
 > 
-> Worst: 7
-> Worst reason: Poem 7 is the weakest due to its repetitive and simplistic use of the word "blur," which becomes monotonous and fails to provide a nuanced or interesting portrayal of Ash. The poem's lack of descriptive language and imaginative metaphors makes it feel flat and unengaging compared to the other entries.
+> Worst: 4
+> Worst reason: This poem suffers from unclear and disjointed language, with lines like "Expanse has built meager given understand" and "Unstraught existence where designs make piercing love" feeling vague and impenetrable, making it difficult to discern a clear meaning or message. The poem's lack of cohesion and clarity makes it the weakest of the seven submissions.
 
 ### GPT-4o
 
 > Best: 1  
-> Best reason: Poem 1 is playful, vivid, and creative, with clever imagery like "whiskers like commas" and "moonwalks his wheel with squeaks and panache," which perfectly captures the brief's tone and Ash's personality.  
+> Best reason: Poem 1 stands out for its vivid imagery, intricate metaphors, and lyrical rhythm. It captures the essence of the Forth Bridge as both a physical structure and a symbol of human ingenuity, weaving together history, nature, and emotion with remarkable depth.  
 > 
 > Worst: 7  
-> Worst reason: Poem 7 is repetitive and lacks variety in its descriptions, overusing "blur" without adding much depth or playfulness, making it feel less engaging compared to the others.
+> Worst reason: While Poem 7 is straightforward and clear, it lacks the originality and evocative language found in the other poems. Its rhymes feel forced, and the descriptions are more generic, failing to capture the unique character of the Forth Bridge.
 
 ### Cohere Command R+
 
 > Best: 1
-> Best reason: This poem captures the playful and energetic nature of the hamster with a delightful rhythm and clever use of alliteration, creating a fun and memorable read.
+> Best reason: This poem is a clear winner due to its masterful use of language, creating vivid imagery and a deep sense of connection between the bridge, the natural world, and human endeavour. The poem's structure and rhythm are also impressive, with a satisfying blend of long and short lines that mirror the bridge's architecture.
 > 
-> Worst: 7
-> Worst reason: While it conveys the hamster's speed and cuteness, the poem relies heavily on repetition, which makes it less engaging and creative compared to the others.
+> Worst: 4
+> Worst reason: This piece lacks the cohesive structure and thematic depth of the other poems. The language is often confusing, with abrupt shifts in tone and imagery that make it challenging to follow. The poem's message and emotional impact are consequently diminished.
 
 ---
 
@@ -146,50 +291,52 @@ Racing through dreams, a blur of fun.
 | Poem 1 | openai/gpt-5 | 7 |
 | Poem 4 | meta/Meta-Llama-3.1-8B-Instruct | 0 |
 | Poem 6 | openai/gpt-4o | 0 |
+| Poem 2 | openai/gpt-4.1 | 0 |
 | Poem 3 | openai/gpt-4o-mini | 0 |
 | Poem 5 | meta/Llama-3.3-70B-Instruct | 0 |
-| Poem 2 | openai/gpt-4.1 | 0 |
 | Poem 7 | Cohere-command-r-plus-08-2024 | 0 |
 
 #### Comments on Best Poems
 
 **Poem 1 (openai/gpt-5):**
-- *Llama 3.1 8B:* This poem stands out for its clever use of language and imagery, particularly in the line "Whiskers like commas, he pauses at his stash," which effectively captures the hamster's curious nature. The poem's rhythm and flow are also well-executed, making it a delightful read.
-- *Llama 3.3 70B:* Poem 1 stands out for its clever use of language, such as "crumb-crunch dash" and "cheeky cache," which effectively convey Ash's playful and mischievous personality. The poem's rhythm and meter are also well-executed, making it a delightful and engaging read.
-- *GPT-4o:* Poem 1 is playful, vivid, and creative, with clever imagery like "whiskers like commas" and "moonwalks his wheel with squeaks and panache," which perfectly captures the brief's tone and Ash's personality.
-- *GPT-4.1:* Poem 1 stands out for its inventive imagery, playful language, and clever wordplay ("moonwalks his wheel with squeaks and panache"), capturing Ash's personality in a lively and memorable way.
-- *GPT-4o Mini:* This poem captures the playful essence of Ash with vivid imagery and a lively rhythm, showcasing his antics in a delightful and engaging manner. The clever wordplay, especially with "moonwalks" and "cheeky cache," adds a whimsical touch that enhances its charm.
-- *Cohere Command R+:* This poem captures the playful and energetic nature of the hamster with a delightful rhythm and clever use of alliteration, creating a fun and memorable read.
-- *GPT-5:* Inventive imagery and clever wordplay (“whiskers like commas,” “cheeky cache”) make it playful and delightfully silly, with tight rhyme and rhythm. It fully meets the brief in five lively lines.
+- *Llama 3.1 8B:* This poem stands out for its rich imagery, nuanced exploration of the bridge's relationship with the natural world, and its thoughtful consideration of the bridge's history and significance. The language is evocative and precise, with a clear attention to the sounds and rhythms of the words.
+- *GPT-4o:* Poem 1 stands out for its vivid imagery, intricate metaphors, and lyrical rhythm. It captures the essence of the Forth Bridge as both a physical structure and a symbol of human ingenuity, weaving together history, nature, and emotion with remarkable depth.
+- *GPT-4o Mini:* This poem masterfully intertwines vivid imagery with a deep exploration of the bridge's significance, capturing both its physical presence and the emotional resonance it holds for those who encounter it. The language is rich and evocative, creating a sense of history and connection that elevates the bridge beyond mere engineering.
+- *GPT-4.1:* Poem 1 offers vivid imagery, inventive metaphors, and a nuanced exploration of the bridge’s history and symbolism, demonstrating both technical skill and emotional resonance.
+- *Llama 3.3 70B:* This poem stands out for its masterful use of language and imagery, weaving a rich and nuanced exploration of the Forth Bridge's structure, history, and significance, with lines like "a red grammar of load and trust" and "the patience of steel" showcasing the poet's skill. The poem's depth and complexity make it a compelling and memorable read.
+- *GPT-5:* Vivid, original imagery and a sustained metaphor that deftly ties engineering to language and memory give it precision, music, and depth. It captures place and history with specificity and emotional resonance.
+- *Cohere Command R+:* This poem is a clear winner due to its masterful use of language, creating vivid imagery and a deep sense of connection between the bridge, the natural world, and human endeavour. The poem's structure and rhythm are also impressive, with a satisfying blend of long and short lines that mirror the bridge's architecture.
 
 ### Worst Poem Tally
 
 | Poem | Model | Votes |
 |------|-------|-------|
-| Poem 7 | Cohere-command-r-plus-08-2024 | 6 |
-| Poem 4 | meta/Meta-Llama-3.1-8B-Instruct | 1 |
+| Poem 4 | meta/Meta-Llama-3.1-8B-Instruct | 4 |
+| Poem 7 | Cohere-command-r-plus-08-2024 | 2 |
+| Poem 5 | meta/Llama-3.3-70B-Instruct | 1 |
 | Poem 6 | openai/gpt-4o | 0 |
-| Poem 3 | openai/gpt-4o-mini | 0 |
-| Poem 5 | meta/Llama-3.3-70B-Instruct | 0 |
 | Poem 2 | openai/gpt-4.1 | 0 |
+| Poem 3 | openai/gpt-4o-mini | 0 |
 | Poem 1 | openai/gpt-5 | 0 |
 
 #### Comments on Worst Poems
 
-**Poem 7 (Cohere-command-r-plus-08-2024):**
-- *Llama 3.3 70B:* Poem 7 is the weakest due to its repetitive and simplistic use of the word "blur," which becomes monotonous and fails to provide a nuanced or interesting portrayal of Ash. The poem's lack of descriptive language and imaginative metaphors makes it feel flat and unengaging compared to the other entries.
-- *GPT-4o:* Poem 7 is repetitive and lacks variety in its descriptions, overusing "blur" without adding much depth or playfulness, making it feel less engaging compared to the others.
-- *GPT-4.1:* Poem 7 relies too heavily on repetition of the word "blur," resulting in a lack of variety and playfulness, making it feel monotonous and less engaging compared to the others.
-- *GPT-4o Mini:* While it attempts to convey Ash's energy, the repetition of "blur" throughout the poem feels excessive and detracts from the overall impact, making it less imaginative and engaging compared to the other entries.
-- *Cohere Command R+:* While it conveys the hamster's speed and cuteness, the poem relies heavily on repetition, which makes it less engaging and creative compared to the others.
-- *GPT-5:* It leans heavily on repetitive “blur” phrasing with little variety or concrete detail. The monotony undercuts playfulness and makes the poem feel flat.
-
 **Poem 4 (meta/Meta-Llama-3.1-8B-Instruct):**
-- *Llama 3.1 8B:* This poem is the least engaging of the seven, with a lack of distinct imagery and a repetitive structure that fails to convey the hamster's personality. The language is also overly simplistic, which detracts from the overall impact of the poem.
+- *GPT-4o Mini:* While it attempts to blend art and industry, the poem lacks a cohesive structure and clarity, resulting in a disjointed reading experience. The imagery feels muddled and the rhythm inconsistent, making it less impactful compared to the other submissions.
+- *Llama 3.3 70B:* This poem suffers from unclear and disjointed language, with lines like "Expanse has built meager given understand" and "Unstraught existence where designs make piercing love" feeling vague and impenetrable, making it difficult to discern a clear meaning or message. The poem's lack of cohesion and clarity makes it the weakest of the seven submissions.
+- *GPT-5:* Broken syntax and incoherent phrasing make it confusing, with clichéd and nonsensical lines that undermine clarity and effective imagery.
+- *Cohere Command R+:* This piece lacks the cohesive structure and thematic depth of the other poems. The language is often confusing, with abrupt shifts in tone and imagery that make it challenging to follow. The poem's message and emotional impact are consequently diminished.
+
+**Poem 7 (Cohere-command-r-plus-08-2024):**
+- *GPT-4o:* While Poem 7 is straightforward and clear, it lacks the originality and evocative language found in the other poems. Its rhymes feel forced, and the descriptions are more generic, failing to capture the unique character of the Forth Bridge.
+- *GPT-4.1:* Poem 7 relies on clichés and simplistic phrasing, lacking depth, originality, and evocative language compared to the other entries.
+
+**Poem 5 (meta/Llama-3.3-70B-Instruct):**
+- *Llama 3.1 8B:* While the poem has some strong moments, its language and imagery are often overly simplistic and clichéd, relying on familiar tropes (such as the "giant's fist" and "majestic span") rather than offering fresh insights or perspectives. The poem's themes and ideas are also not as deeply explored or developed as they are in other poems on the list.
 
 
 ---
 
 🏆 **Best:** Poem 1 — openai/gpt-5
 
-💀 **Worst:** Poem 7 — Cohere-command-r-plus-08-2024
+💀 **Worst:** Poem 4 — meta/Meta-Llama-3.1-8B-Instruct
