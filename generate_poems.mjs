@@ -52,7 +52,9 @@ function extractReason(verdict, prefix) {
 
 // ── Main ───────────────────────────────────────────────────
 
-const client = new CopilotClient();
+const client = new CopilotClient({
+  ...(process.env.GITHUB_TOKEN && { githubToken: process.env.GITHUB_TOKEN }),
+});
 await client.start();
 
 // Phase 1: Generate poems
@@ -248,6 +250,13 @@ for (const num of sortedByWorst) {
 
 const winner = sortedByBest[0];
 const loser = sortedByWorst[0];
+
+if (!winner || !results[winner]) {
+  console.error("No valid poems were generated. Exiting.");
+  await client.stop();
+  process.exit(1);
+}
+
 console.log(`\n  🏆 Best:  Poem ${winner} — ${results[winner].label}`);
 console.log(`  💀 Worst: Poem ${loser} — ${results[loser].label}`);
 console.log(separator() + "\n");
