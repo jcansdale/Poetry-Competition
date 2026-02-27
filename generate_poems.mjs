@@ -4,20 +4,20 @@
  * All requests run in parallel for speed.
  */
 
-import { CopilotClient } from "@github/copilot-sdk";
+import { CopilotClient, approveAll } from "@github/copilot-sdk";
 import { writeFileSync } from "fs";
 
 const SHARED_PROMPT =
   process.env.POEM_BRIEF || "Write a sonnet about the Forth Bridge.";
 
 const MODELS = [
-  ["gpt-5", "GPT-5"],
+  ["gpt-5.1", "GPT-5.1"],
   ["gpt-4.1", "GPT-4.1"],
-  ["gpt-4o-mini", "GPT-4o Mini"],
+  ["gpt-5-mini", "GPT-5 Mini"],
   ["claude-sonnet-4.5", "Claude Sonnet 4.5"],
-  ["o3-mini", "o3-mini"],
-  ["gpt-4o", "GPT-4o"],
-  ["gemini-2.5-pro", "Gemini 2.5 Pro"],
+  ["claude-sonnet-4", "Claude Sonnet 4"],
+  ["gemini-3-pro-preview", "Gemini 3 Pro"],
+  ["claude-haiku-4.5", "Claude Haiku 4.5"],
 ];
 
 const SYSTEM_MSG =
@@ -68,6 +68,7 @@ async function generatePoem(client, idx, model, label) {
     model,
     systemMessage: { mode: "replace", content: SYSTEM_MSG },
     infiniteSessions: { enabled: false },
+    onPermissionRequest: approveAll,
   });
   try {
     const response = await session.sendAndWait(
@@ -151,6 +152,7 @@ async function castVote(client, idx, model, label) {
     model,
     systemMessage: { mode: "replace", content: "You are a poetry critic." },
     infiniteSessions: { enabled: false },
+    onPermissionRequest: approveAll,
   });
   try {
     const response = await session.sendAndWait(
