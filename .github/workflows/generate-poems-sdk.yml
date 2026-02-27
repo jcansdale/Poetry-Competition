@@ -27,7 +27,7 @@ jobs:
 
       - name: Generate poems
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.COPILOT_TOKEN }}
           POEM_BRIEF: ${{ inputs.brief }}
         run: node generate_poems.mjs
 
