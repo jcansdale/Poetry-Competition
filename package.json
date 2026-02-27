@@ -1,0 +1,11 @@
+{
+  "name": "poetry-competition",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node generate_poems.mjs"
+  },
+  "dependencies": {
+    "@github/copilot-sdk": "^0.1.28"
+  }
+}

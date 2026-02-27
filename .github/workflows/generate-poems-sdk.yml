@@ -1,4 +1,4 @@
-name: Generate Poems (GitHub Models)
+name: Generate Poems (Copilot SDK)
 
 on:
   workflow_dispatch:
@@ -13,24 +13,23 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      models: read
+      copilot: read
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: '3.12'
+          node-version: '22'
 
       - name: Install dependencies
-        run: pip install openai
+        run: npm ci
 
       - name: Generate poems
         env:
-          GITHUB_TOKEN: ${{ secrets.MODELS_TOKEN || secrets.GITHUB_TOKEN }}
           POEM_BRIEF: ${{ inputs.brief }}
-        run: python generate_poems.py
+        run: node generate_poems.mjs
 
       - name: Show results in summary
         run: cat results.md >> $GITHUB_STEP_SUMMARY
@@ -38,5 +37,5 @@ jobs:
       - name: Upload results
         uses: actions/upload-artifact@v4
         with:
-          name: results-github-models
+          name: results-copilot-sdk
           path: results.md
